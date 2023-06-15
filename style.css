@@ -1,0 +1,16 @@
+/*
+Theme Name: Agama Blue
+Theme URI: http://theme-vision.com/agama-blue/
+Description: Agama Blue is child theme of Agama. Powered by Bootstrap 4 framework. Check demo: <a href="https://theme-vision.com/demo/agama-blue/" target="_blank">https://theme-vision.com/demo/agama-blue/</a>
+Version: 1.1.5
+Author: Theme Vision
+Author URI: https://theme-vision.com/
+Template: agama
+Template Version: 1.6.9
+Tags: one-column, two-columns, right-sidebar, left-sidebar, grid-layout, flexible-header, accessibility-ready, buddypress, custom-background, custom-header, custom-logo, custom-menu, custom-colors, editor-style, featured-image-header, featured-images, full-width-template, footer-widgets, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, blog, e-commerce, education, entertainment, holiday
+Text Domain: agama-blue
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+html {background-color: rgb(255, 136, 0);}
